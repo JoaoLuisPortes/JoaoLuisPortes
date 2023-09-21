@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=JoaoLuisPortes&color=blue"><br>
 <h1 align="center">Seja muito bem-vindo(a) ao meu perfil 😁</h1>
 
  <div>
@@ -32,4 +33,4 @@
  
  <hr>
  
-<h2 align="center">"The only man who never makes mistake is the man who never does anything." - Theodore Roosevelt</h2>
+<h2 align="center">"O único homem que nunca comete erros é aquele que nunca faz nada." - Theodore Roosevelt</h2>
