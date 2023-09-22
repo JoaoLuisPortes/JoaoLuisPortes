@@ -28,7 +28,7 @@
   
   <hr>
  
-  ![Snake animation](https://github.com/JoaoLuisPortes/JoaoLuisPortes/blob/output/github-contribution-grid-snake.svg)
+  ![neve4](https://github.com/JoaoLuisPortes/JoaoLuisPortes/assets/123324306/e5f50054-df08-4c7c-a678-5e378ee9a04e)
 </div>
  
  <hr>
