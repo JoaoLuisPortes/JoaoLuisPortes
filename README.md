@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=JoaoLuisPortes&color=blue"><br>
 <h1 align="center">Seja muito bem-vindo(a) ao meu perfil 😁</h1>
 
-<h2 align="center">Tecnologias utilizadas no meu dia a dia 🖥️</h2>
+<h2 align="center">Tecnologias utilizadas 🖥️</h2>
 
 <div align="center">
   <img alt="HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
